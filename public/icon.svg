@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+  <!-- background -->
+  <rect x="5" y="5" width="90" height="90" rx="18" fill="#1a1a1a"/>
+
+  <!-- left bracket -->
+  <polyline
+    points="38,22 24,30 24,50 24,70 38,78"
+    fill="none" stroke="#f5c400" stroke-width="8"
+    stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- right bracket -->
+  <polyline
+    points="62,22 76,30 76,50 76,70 62,78"
+    fill="none" stroke="#f5c400" stroke-width="8"
+    stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- center dot -->
+  <circle cx="50" cy="50" r="6" fill="#f5c400"/>
+
+</svg>
