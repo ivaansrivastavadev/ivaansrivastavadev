@@ -6,7 +6,7 @@ Welcome to my portfolio repository. I build interactive and seamless digital exp
 
 ## Portfolio
 
-[View Full Portfolio](https://ivaansrivastavadev.vercel.app)
+[View Full Portfolio](https://ivaan.vercel.app)
 
 ## About Me
 
